@@ -1,0 +1,49 @@
+
+         *========================================*
+                      |OpenViBE| |AUTHORS|
+         *========================================*
+
+         Contact: http://openvibe.inria.fr/contact/
+		 
+|People|
+
+Project Leader :
+ - Anatole Lecuyer, Inria
+
+Lead Software Engineer :
+ - Jussi T. Lindgren, Inria
+
+Core Developers :
+ - Alison Cellard, Inria
+ - Loic Mahe, Inria
+ - Guillaume Serrière, Inria
+ 
+Former Core Developers
+ - Yann Renard, Inria
+ - Laurent Bonnet, Inria
+ - Jozef Legény, Inria
+ - Vincent Delannoy, Inria
+ - Fabien Lotte, Inria
+ - Bruno Renier, Inria
+ - Baptiste Payan, Inria
+
+Contributors :
+ - Anton Andreev, CNRS/Gipsa-lab
+ - Guillermo Andrade Barroso, Inria
+
+Previous Contributors :
+ - Dieter Devlaminck, Ghent Univ.
+ - Yann Renard, Inria
+ - Laurent Bonnet, Inria
+ - Mattieu Goyat, INPG (Univariate Statistics box)
+ - Joan Fruitet, Inria
+ - Guillaume Gibert, INSERM
+ - Guillaume Lio, INP Grenoble (Signal Merger box)
+ - Emmanuel Maby, INSERM
+ - Pierre-Emmanuel Aguera, INSERM
+ - Chris Veigl, UAS Technikum Wien (Modular EEG P2 driver)
+ - Lucie Daubigney, Supelec Metz (g.Mobilab+ driver)
+ 
+|End.of.file|
+
+ vim:tw=78:ts=8:ft=help:norl:

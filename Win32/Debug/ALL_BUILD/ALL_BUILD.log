@@ -1,0 +1,16 @@
+﻿Build started 4/2/2015 1:01:59 PM.
+     1>Project "C:\openvibe-0.18.0-src\openvibe-0.18.0-src\local-tmp\visual\applications\examples\vrpn-to-openvibe\ALL_BUILD.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Build all projects
+         Building Custom Rule C:/openvibe-0.18.0-src/openvibe-0.18.0-src/applications/examples/vrpn-to-openvibe/CMakeLists.txt
+         CMake does not need to re-run because C:\openvibe-0.18.0-src\openvibe-0.18.0-src\local-tmp\visual\applications\examples\vrpn-to-openvibe\CMakeFiles\generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild".
+         Touching "Win32\Debug\ALL_BUILD\ALL_BUILD.lastbuildstate".
+     1>Done Building Project "C:\openvibe-0.18.0-src\openvibe-0.18.0-src\local-tmp\visual\applications\examples\vrpn-to-openvibe\ALL_BUILD.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.29
